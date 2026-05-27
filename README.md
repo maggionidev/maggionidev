@@ -15,6 +15,10 @@
 
 ---
 
+Você pode saber mais sobre mim, ou aprender coisas divertidas visitando meu blog 👉 [maggioni.dev](https://maggioni.dev)
+
+---
+
 # 🛠️ Arsenal Tecnológico
 
 ## 🧠 Linguagens
@@ -44,9 +48,6 @@
 ## AINDA PRETENDO ESTUDAR 🤓📚
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-326CE5?style=for-the-badge&logo=sentry&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-003B57?style=for-the-badge&logo=redis&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
